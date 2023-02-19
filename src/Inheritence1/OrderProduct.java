@@ -1,4 +1,4 @@
-package Inheritence;
+package Inheritence1;
 
 public class OrderProduct extends Prodouct {
     private int qty;

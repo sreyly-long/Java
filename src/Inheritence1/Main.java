@@ -1,4 +1,4 @@
-package Inheritence;
+package Inheritence1;
 
 public class Main {
     public static void main(String[] args) {

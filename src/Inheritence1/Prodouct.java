@@ -1,4 +1,4 @@
-package Inheritence;
+package Inheritence1;
 
 public class Prodouct {
     private int code;

@@ -1,4 +1,4 @@
-package Inheritence;
+package Inheritence1;
 
 public class Employee extends Person{
     private int id;
